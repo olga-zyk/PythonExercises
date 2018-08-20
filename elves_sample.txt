@@ -1,0 +1,15 @@
+=========
+Elf: Candy Mcgowan
+Quota: 3
+=========
+Elf: Louella Mcfarland
+Quota: 2
+=========
+Elf: Shana Beach
+Quota: 5
+=========
+Elf: Kari Sampson
+Quota: 1
+=========
+Elf: Jenifer Donaldson
+Quota: 5

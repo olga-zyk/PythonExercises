@@ -1,0 +1,49 @@
+{
+  "elves": [
+    {
+      "name": "Judy",
+      "surname": "Puckett",
+      "quota": 3
+    },
+    {
+      "name": "Carole",
+      "surname": "Rush",
+      "quota": 3
+    },
+    {
+      "name": "Briggs",
+      "surname": "England",
+      "quota": 4
+    },
+    {
+      "name": "Fox",
+      "surname": "Cole",
+      "quota": 5
+    },
+    {
+      "name": "Ryan",
+      "surname": "English",
+      "quota": 2
+    },
+    {
+      "name": "Tanisha",
+      "surname": "Tucker",
+      "quota": 2
+    },
+    {
+      "name": "Lelia",
+      "surname": "Roach",
+      "quota": 3
+    },
+    {
+      "name": "Cardenas",
+      "surname": "Watkins",
+      "quota": 5
+    },
+    {
+      "name": "Prince",
+      "surname": "Martinez",
+      "quota": 2
+    }
+  ]
+}
